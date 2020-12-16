@@ -1,0 +1,32 @@
+{
+  "name": "react-express-same-server",
+  "version": "1.0.0",
+  "description": "integrate React and Node.js Express Rest Apis on same server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "rest",
+    "api",
+    "sequelize",
+    "mysql"
+  ],
+  "author": "baraban",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "mysql2": "^2.0.2",
+    "react": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "sequelize": "^5.21.2"
+  }
+}
